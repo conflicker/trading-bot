@@ -3,7 +3,7 @@ import cors from 'cors';
 import express from 'express';
 import { join } from 'path';
 
-const PORT = 3000;
+const PORT = 8003;
 
 const app = express();
 app.use(cors());

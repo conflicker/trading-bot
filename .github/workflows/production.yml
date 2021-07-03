@@ -1,4 +1,4 @@
-name: Publish Docker image
+name: Deploy to Production
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   push_to_registry:
-    name: Push Docker image to GitHub Packages
+    name: Deploy to Production
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
