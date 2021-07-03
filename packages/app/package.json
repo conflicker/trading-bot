@@ -1,0 +1,16 @@
+{
+  "name": "@stkd-trading-bot/app",
+  "version": "1.0.0",
+  "author": "Eric Libay",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@stkd-trading-bot/common": "1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8"
+  }
+}
