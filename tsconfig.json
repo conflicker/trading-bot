@@ -12,7 +12,7 @@
     /* Paths Resolution */
     "baseUrl": "./",
     "paths": {
-      "@flipcards/*": ["packages/*"]
+      "@tradingbot/*": ["packages/*"]
     },
 
     /* Advanced */
